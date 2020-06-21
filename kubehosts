@@ -1,0 +1,2 @@
+[demo]
+kubemaster ansible_host=172.31.10.12 ansible_user=ubuntu
